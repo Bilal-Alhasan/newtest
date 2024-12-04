@@ -1,6 +1,6 @@
 def op():
-    a=1
-    b=2
+    a=input(int("enter the parameter"))
+    b=input(int("enter the parameter"))
     c=a+b
     return c
 
